@@ -5,3 +5,12 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+france = Country.create(name: "France")
+usa = Country.create(name: "United States")
+australia = Country.create(name: "Australia")
+greece = Country.create(name: "Greece")
+mexico = Country.create(name: "Mexico")
+spain = Country.create(name: "Spain")
+italy = Country.create(name: "Italy")
+thailand = Country.create(name: "Thailand")
+indonesia = Country.create(name: "Indonesia")
