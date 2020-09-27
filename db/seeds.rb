@@ -25,5 +25,5 @@ Trip.create(title: "A Night in Paris",
     hotel: "B Montmartre Hotel",
     must_visit: "Musee Du Louvre",
     top_restaurant: "Le Petit Pouce",
-    image_url: "https://www.google.com/url?sa=i&url=https%3A%2F%2Ferasmusu.com%2Fen%2Ferasmus-paris%2Ferasmus-experiences%2Ferasmus-experience-in-paris-france-by-marie-nadine-382814&psig=AOvVaw2EZRz6M9cLwaYMybrGDe7D&ust=1600914593300000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi9r-Gd_usCFQAAAAAdAAAAABAD", 
+    image_url: "https://stillmed.olympic.org/media/Images/OlympicOrg/News/2019/11/27/2019-11-27-paris-thumbnail.jpg?interpolation=lanczos-none&resize=*:*", 
     country_id: france.id)
